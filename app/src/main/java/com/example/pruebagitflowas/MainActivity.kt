@@ -37,6 +37,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
     println("ESTO ES UN EJEMPLO")
+    println("Este es el inicio de feature pantallaInicio)
 }
 
 @Preview(showBackground = true)
