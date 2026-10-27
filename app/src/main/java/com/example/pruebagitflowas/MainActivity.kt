@@ -40,6 +40,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     println("Este es el inicio de feature pantallaInicio")
     println("Modificaciones 29.09.2026")
     println("Este es el inicio de feature configuracion")
+    println("Modificaciones en feature configuracion el dia 27.10.2026")
 }
 
 @Preview(showBackground = true)
